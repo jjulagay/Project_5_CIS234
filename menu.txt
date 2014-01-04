@@ -1,0 +1,13 @@
+1	,Cheese	,SC	,Small	,12.95
+2	,Cheese	,MC 	,Medium	,13.95
+3	,Cheese	,LC	,Large,	14.95
+4	,Cheese & Sausage	,SCS 	,Small	,13.95
+5	,Cheese & Sausage	,MCS 	,Medium	,14.95
+6	,Cheese & Sausage	,LCS 	,Large	,15.95
+7	,Cheese & Pepperoni	,SCP 	,Small	,13.95
+8	,Cheese & Pepperoni	,MCP 	,Medium	,15.95
+9	,Cheese & Pepperoni	 ,LCP	,Large	,16.95
+10	,Cheese & Vegetarian	,SCV 	,Small	,12.95
+11	,Cheese & Vegetarian	,MCV 	,Medium	,13.95
+12	,Cheese & Vegetarian	,LCV 	,Large	,15.95
+13  ,Joel Special         ,JSJ     ,ExLarge	, 20.00
